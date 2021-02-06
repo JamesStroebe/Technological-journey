@@ -27,6 +27,6 @@ chaos.addFlags(["GENERATE_PLATE","SMELT_INTO_FLUID","GENERATE_DENSE","GENERATE_M
 
 val dragonstem = MaterialRegistry.createFluidMaterial(521,  "dragonstem", 0xff0000, "FLUID", null);
 
-val chaosalloy = MaterialRegistry.createIngotMaterial(522, "chaosalloy",  0x696969, "dull", 10, null, 100.0f, 6, 1280000);
+val chaosalloy = MaterialRegistry.createIngotMaterial(522, "chaosalloy",  0x696969, "dull", 10, null, 30.0f, 6, 1280000);
 chaosalloy.addFlags(["GENERATE_PLATE","SMELT_INTO_FLUID","GENERATE_DENSE","GENERATE_PLASMA"]);
 val rawchaos = MaterialRegistry.createFluidMaterial(523,  "rawchaos", 0x000000, "FLUID", null);
