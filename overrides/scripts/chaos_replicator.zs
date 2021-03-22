@@ -206,7 +206,7 @@ val chaos_replicator = Builder.start(loc, meta)
 .withTexture(ICubeRenderer.sided("contenttweaker:blocks/chaoticcasing"))
 .buildAndRegister() as Multiblock;
 
-// chaos_replicator.recipemap.recipeBuilder()
+// chaos_replicator.recipeMap.recipeBuilder()
 
 
 
