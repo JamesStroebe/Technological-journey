@@ -9,7 +9,7 @@
     "manifestType": "minecraftModpack",
     "manifestVersion": 1,
     "name": "Technological Journey",
-    "version": "0.2.3",
+    "version": "0.2.4",
     "author": "Technological Journey Dev team",
     "files": [{
             "projectID": 318551,
@@ -98,7 +98,7 @@
         },
         {
             "projectID": 364851,
-            "fileID": 3180087,
+            "fileID": 3236714,
             "required": true
         },
         {
@@ -278,7 +278,7 @@
         },
         {
             "projectID": 322347,
-            "fileID": 3113390,
+            "fileID": 3254160,
             "required": true
         },
         {
@@ -343,7 +343,7 @@
         },
         {
             "projectID": 293327,
-            "fileID": 3182667,
+            "fileID": 3249033,
             "required": true
         },
         {
@@ -533,6 +533,21 @@
             "required": true
         },
         {
+            "projectID": 356646,
+            "fileID": 3168863,
+            "required": true
+        },
+        {
+            "projectID": 280570,
+            "fileID": 3195653,
+            "required": true
+        },
+        {
+            "projectID": 272514,
+            "fileID": 2962052,
+            "required": true
+        },
+        {
             "projectID": 314515,
             "fileID": 3177557,
             "required": true
@@ -562,8 +577,6 @@
             "fileID": 2988990,
             "required": true
         }
-
-
 
     ],
     "overrides": "overrides"
